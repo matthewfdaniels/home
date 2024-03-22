@@ -18,6 +18,9 @@
 	];
 
 	const { title, description, url, keywords } = copy;
+
+	console.log(data)
+
 	setContext("copy", copy);
 	setContext("data", data.data);
 </script>
