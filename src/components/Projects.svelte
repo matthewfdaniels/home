@@ -61,4 +61,9 @@
         font-weight: 800;
         margin-right: 10px;
     }
+    @media only screen and (max-width: 410px) {
+        .projects {
+            grid-template-columns: 1fr;
+        } 
+    }
 </style>

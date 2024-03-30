@@ -12,7 +12,7 @@
 	
 </script>
 <div class="wrapper">
-	<h1>Matt is a visual journalist reporting on stories that struggle to be told with prose alone.</h1>
+	<h1>Matt is visual journalist based in Detroit, reporting on stories that struggle to be told with prose alone.</h1>
 	<h1 class="transition">To advance the craft of visual storytelling, he founded two organizations...</h1>
 	<div class="orgs">
 		<div class="org">

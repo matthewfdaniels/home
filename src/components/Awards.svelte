@@ -22,4 +22,12 @@ p {
 a {
     opacity: .6;
 }
+
+@media only screen and (max-width: 410px) {
+    .awards {
+        grid-template-columns: 1fr;
+    }
+    
+}
+
 </style>
